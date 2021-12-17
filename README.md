@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Dunu @codejutsu1
 - 👀 I’m interested in AI, web development and Violin.
-- 🌱 I’m currently learning Laravel and looking forward to vuejs
+- 🌱 I’m a vueJs and laravel developer 
 - 💞️ I’m looking to collaborate on Frontend and backend projects
 - 📫 How to reach me on twitter @danieldunu
 
