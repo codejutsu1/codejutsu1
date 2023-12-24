@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Laravel, Vue**
 
-- 📫 How to reach me **codejutsu@protonmail.com**
+- 📫 How to reach me **<a href="mailto:danieldunu001@gmail.com">danieldunu001@gmail.com</a>**
 
 - ⚡ Fun fact **I have a life outside coding**
 
