@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dunu Daniel</h1>
 <h3 align="center">Backend Developer (Laravel) ~ Passionate about making a difference.</h3>
 
-- 🌱 I’m currently learning **Laravel, VueJs, C++, Python**
+- 🌱 I’m currently learning **Laravel, VueJs, C#**
 
 - 💬 Ask me about **Laravel, Vue**
 
